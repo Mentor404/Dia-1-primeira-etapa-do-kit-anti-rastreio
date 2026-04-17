@@ -36,7 +36,7 @@ Copie os comandos abaixo, cole no terminal (um por vez) e pressione **Enter** ap
 
 **Comandos:** Baixa o repositório da ferramenta para o seu computador.
 ```bash
-git clone [https://github.com/sherlock-project/sherlock.git](https://github.com/sherlock-project/sherlock.git)
+git clone https://github.com/sherlock-project/sherlock.git
 
  Acessa o diretório recém-baixado.
 Bash
