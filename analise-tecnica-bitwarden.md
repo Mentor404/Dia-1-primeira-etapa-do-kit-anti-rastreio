@@ -1,5 +1,5 @@
 Análise Técnica de Arquitetura e Criptografia: Bitwarden
-Este documento apresenta uma análise técnica da arquitetura do Bitwarden. Como profissional de cibersegurança e OSINT, a escolha desta infraestrutura baseia-se na resiliência do seu modelo de ameaça (Threat Model), na solidez das funções de derivação e na aplicação real da criptografia "Zero-Knowledge" (Conhecimento Zero).
+Este documento apresenta uma análise técnica da arquitetura do Bitwarden. Apenas um opinião tecnica do porter ter escolhido o bitwardem e utilizando como referencia de analise bitwarden.com/help/bitwarden-security-white-paper/, github.com/bitwarden/server,github.com/bitwarden/clients, a escolha desta infraestrutura baseia-se na resiliência do seu modelo de ameaça (Threat Model), na solidez das funções de derivação e na aplicação real da criptografia "Zero-Knowledge" (Conhecimento Zero).
 
 1. Visão Geral: Auditoria e Conformidade
 A segurança do Bitwarden não se baseia em esconder o código (segurança por obscuridade). Todo o ecossistema é 100% Open Source e hospedado no GitHub, o que permite validação constante pela comunidade técnica.
