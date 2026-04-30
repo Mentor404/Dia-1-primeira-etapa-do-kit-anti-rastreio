@@ -1,4 +1,4 @@
-# 🛡️ Mentor404 - Dia 04: Abandonando o Gmail (Para Iniciantes)
+#  Mentor404 - Dia 04: Abandonando o Gmail (Para Iniciantes)
 
 Bem-vindo ao **Dia 4 do Kit Anti-Rastreio**! Hoje nós vamos resolver um dos maiores problemas de privacidade da internet: o seu e-mail.
 
@@ -6,7 +6,7 @@ Não se preocupe se você não entende muito de tecnologia. Este guia foi feito 
 
 ---
 
-## 🤔 Por que precisamos sair do Gmail?
+##  Por que precisamos sair do Gmail?
 
 Imagine que os Correios abrissem todas as suas cartas, lessem o que está escrito e depois anotassem os seus interesses para vender para lojistas. É basicamente isso que o Google faz com o Gmail.
 
@@ -16,7 +16,7 @@ Além disso, para criar um Gmail, eles exigem o seu **número de celular**. Isso
 
 ---
 
-## 🔒 A Solução: Conheça o Tuta
+##  A Solução: Conheça o Tuta
 
 Para substituir o Gmail, nós escolhemos um serviço chamado **Tuta** (antigamente chamado de Tutanota).
 
@@ -27,7 +27,7 @@ Para substituir o Gmail, nós escolhemos um serviço chamado **Tuta** (antigamen
 
 ---
 
-## 🛠️ Passo a Passo: Criando sua Conta Segura
+##  Passo a Passo: Criando sua Conta Segura
 
 Siga os passos abaixo com calma. Leva menos de 5 minutos!
 
@@ -49,7 +49,7 @@ Para isso não acontecer, o Tuta vai te dar um **Código de Recuperação** (Rec
 
 ---
 
-## 🔄 Como fazer a transição sem dor de cabeça?
+##  Como fazer a transição sem dor de cabeça?
 
 Você não precisa apagar o seu Gmail hoje. Fazer isso de uma vez dá muito trabalho. Siga a **Regra do Desmame**:
 
@@ -58,11 +58,3 @@ Você não precisa apagar o seu Gmail hoje. Fazer isso de uma vez dá muito trab
 3. **Aviso aos amigos:** Mande um e-mail do seu Tuta para as pessoas importantes avisando: *"Oi, agora este é o meu e-mail principal."*
 
 Com o tempo, o seu Gmail vai ficar recebendo apenas spam e promoções velhas, enquanto sua vida real e privada estará segura no Tuta!
-
----
-
-## 🚀 Desafio Extra (Para quem quer testar código)
-
-Na pasta do projeto, deixamos um arquivo chamado `check_leaks.py`. É um script que você pode rodar no seu computador para ver se o seu Gmail antigo já vazou na internet nas mãos de hackers.
-
-*Projeto Mentor404 - Conhecimento é a sua melhor defesa.*
